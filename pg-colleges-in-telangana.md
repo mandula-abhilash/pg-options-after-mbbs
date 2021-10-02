@@ -6,6 +6,7 @@
 
 | Abbreviation              |  Course Name                                             |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | DCP                       | Diploma in Clinical Pathology                            |
 | DO                        | Diploma in Opthalmology                                  |
 | DPH                       | Diploma in Public Health                                 |
@@ -18,6 +19,7 @@
 
 | Abbreviation              |  Course Name                                             |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Doctor of Medicine                                       |
 | MS                        | Master of Surgery                                        |
 
@@ -29,6 +31,7 @@
 
 | Course Name or Abbr       | Branch Name or Description                               |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | DCP                       | Diploma in Clinical Pathology                            |
 | DO                        | Diploma in Opthalmology                                  |
 | DPH                       | Diploma in Public Health                                 |
@@ -60,6 +63,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Biochemistry                                             |
 | MD                        | Community Medicine                                       |
@@ -88,6 +92,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -114,6 +119,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Biochemistry                                             |
 | MD                        | Emergency Medicine                                       |
@@ -130,6 +136,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | DPM                       | Diploma in  Psychological Medicine                       |
 | <br />                    |                                                          |
 | MD                        | Anaesthesiology                                          |
@@ -156,6 +163,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -182,6 +190,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -204,6 +213,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
 | MD                        | Community Medicine                                       |
@@ -231,6 +241,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -257,6 +268,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -282,6 +294,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | D.Ortho                   | Diploma in Orthopaedics                                  |
 | DMRD                      | Diploma in Medical Radio Diagnosis                       |
 | <br />                    |                                                          |
@@ -309,6 +322,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -334,6 +348,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Dermatology, Venereology & Leprosy                       |
@@ -355,6 +370,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -377,6 +393,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Biochemistry                                             |
 | MD                        | Physiology                                               |
 
@@ -384,6 +401,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Community Medicine                                       |
@@ -400,6 +418,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Community Medicine                                       |
 | MD                        | Dermatology, Venereology & Leprosy                       |
@@ -421,6 +440,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -442,6 +462,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -468,6 +489,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anaesthesiology                                          |
 | MD                        | Dermatology, Venereology & Leprosy                       |
 | MD                        | General Medicine                                         |
@@ -487,6 +509,7 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
 | MD                        | Forensic Medicine                                        |
@@ -498,5 +521,6 @@
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
+|<img width=200/>           | <img width=500/>                                         |
 | MD                        | Community Medicine                                       |
 | MD                        | Pathology                                                |
