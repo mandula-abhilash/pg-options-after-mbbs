@@ -1,9 +1,10 @@
 # Medical colleges offering PG courses in Telangana
 
-#### PG Diploma courses
-- DCP, DO, DPH
-#### PG Degree courses
-- MD, MS
+#### Course types
+- PG Diploma
+  -  DCP, DO, DPH
+- PG Degree
+  - MD, MS
 
 ## Colleges list
 
