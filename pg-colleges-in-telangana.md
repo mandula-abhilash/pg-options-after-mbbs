@@ -99,7 +99,7 @@
 | MD                        | Paediatrics                                              |
 | MD                        | Pathology                                                |
 | MD                        | Pharmacology                                             |
-| MD                        | Physiology                                               |
+| MD                        |   Physiology                                               |
 | MD                        | Psychiatry                                               |
 | MD                        | Pulmonary Medicine                                       |
 | MD                        | Radio Diagnosis                                          |
@@ -144,7 +144,6 @@
 | MD                        | Pharmacology                                             |
 | MD                        | Physiology                                               |
 | MD                        | Psychiatry                                               | 
-| MD                        | Pulmonary Medicine                                       |
 | MD                        | Radio Diagnosis                                          |
 | <br />                    |                                                          |
 | MS                        | ENT                                                      |
@@ -153,7 +152,7 @@
 | MS                        | Ophthalmology                                            |
 | MS                        | Orthopaedics                                             |
 
-### Mamata Medical College, Khammam
+### Mamata Medical College, Khammam 
 
 | Course Name               | Branch Name                                              |
 |---------------------------|----------------------------------------------------------|
