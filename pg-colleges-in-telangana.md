@@ -383,6 +383,8 @@
 
 ### Apollo Institute of Medical Sciences and Research, Hyderabad
 
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Community Medicine                                       |
@@ -397,6 +399,8 @@
 
 ### Malla Reddy Institute of Medical Sciences, Hyderabad
 
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
 | MD                        | Anaesthesiology                                          |
 | MD                        | Community Medicine                                       |
 | MD                        | Dermatology, Venereology & Leprosy                       |
@@ -416,6 +420,8 @@
 
 ### Government Medical College, Nizamabad
 
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -435,6 +441,8 @@
 
 ### Kamineni Academy of Medical Sciences & Research Center, Hyderabad
 
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
 | MD                        | Anaesthesiology                                          |
 | MD                        | Anatomy                                                  |
 | MD                        | Biochemistry                                             |
@@ -455,3 +463,41 @@
 | MS                        | General Surgery                                          |
 | MS                        | Obstetrics and Gynaecology                               |
 | MS                        | Orthopaedics                                             |
+
+### Mallareddy Medical College for Women, Hyderabad
+
+
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
+| MD                        | Anaesthesiology                                          |
+| MD                        | Dermatology, Venereology & Leprosy                       |
+| MD                        | General Medicine                                         |
+| MD                        | Paediatrics                                              |
+| MD                        | Psychiatry                                               |
+| MD                        | Pulmonary Medicine                                       |
+| MD                        | Radio Diagnosis                                          |
+| <br />                    |                                                          |
+| MS                        | ENT                                                      |
+| MS                        | General Surgery                                          |
+| MS                        | Obstetrics and Gynaecology                               |
+| MS                        | Ophthalmology                                            |
+| MS                        | Orthopaedics                                             |
+
+### Government Medical College, Mahabubnagar
+
+
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
+| MD                        | Anatomy                                                  |
+| MD                        | Biochemistry                                             |
+| MD                        | Forensic Medicine                                        |
+| MD                        | Pharmacology                                             |
+| MD                        | Physiology                                               |
+
+### RVM Institute of Medical Sciences and Research Centre, Siddipet
+
+
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
+| MD                        | Community Medicine                                       |
+| MD                        | Pathology                                                |
