@@ -351,3 +351,107 @@
 | MS                        | Obstetrics and Gynaecology                               |
 | MS                        | Ophthalmology                                            |
 | MS                        | Orthopaedics                                             |
+
+### Shadan Institute of Medical Sciences, Hyderabad
+
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
+| MD                        | Anaesthesiology                                          |
+| MD                        | Anatomy                                                  |
+| MD                        | Biochemistry                                             |
+| MD                        | Dermatology, Venereology & Leprosy                       |
+| MD                        | General Medicine                                         |
+| MD                        | Microbiology                                             |
+| MD                        | Paediatrics                                              |
+| MD                        | Pharmacology                                             |
+| MD                        | Physiology                                               |
+| MD                        | Pulmonary Medicine                                       |
+| MD                        | Radio Diagnosis                                          |
+| <br />                    |                                                          |
+| MS                        | ENT                                                      |
+| MS                        | General Surgery                                          |
+| MS                        | Obstetrics and Gynaecology                               |
+| MS                        | Ophthalmology                                            |
+| MS                        | Orthopaedics                                             |
+
+### Rajiv Gandhi Institute of Medical Sciences, Adilabad
+
+| Course Name               | Branch Name                                              |
+|---------------------------|----------------------------------------------------------|
+| MD                        | Biochemistry                                             |
+| MD                        | Physiology                                               |
+
+### Apollo Institute of Medical Sciences and Research, Hyderabad
+
+| MD                        | Anaesthesiology                                          |
+| MD                        | Anatomy                                                  |
+| MD                        | Community Medicine                                       |
+| MD                        | General Medicine                                         |
+| MD                        | Microbiology                                             |
+| MD                        | Paediatrics                                              |
+| MD                        | Physiology                                               |
+| MD                        | Radio Diagnosis                                          |
+| <br />                    |                                                          |
+| MS                        | General Surgery                                          |
+| MS                        | Orthopaedics                                             |
+
+### Malla Reddy Institute of Medical Sciences, Hyderabad
+
+| MD                        | Anaesthesiology                                          |
+| MD                        | Community Medicine                                       |
+| MD                        | Dermatology, Venereology & Leprosy                       |
+| MD                        | General Medicine                                         |
+| MD                        | Microbiology                                             |
+| MD                        | Paediatrics                                              |
+| MD                        | Pathology                                                |
+| MD                        | Psychiatry                                               |
+| MD                        | Pulmonary Medicine                                       |
+| MD                        | Radio Diagnosis                                          |
+| <br />                    |                                                          |
+| MS                        | ENT                                                      |
+| MS                        | General Surgery                                          |
+| MS                        | Obstetrics and Gynaecology                               |
+| MS                        | Ophthalmology                                            |
+| MS                        | Orthopaedics                                             |
+
+### Government Medical College, Nizamabad
+
+| MD                        | Anaesthesiology                                          |
+| MD                        | Anatomy                                                  |
+| MD                        | Biochemistry                                             |
+| MD                        | Forensic Medicine                                        |
+| MD                        | General Medicine                                         |
+| MD                        | Microbiology                                             |
+| MD                        | Paediatrics                                              |
+| MD                        | Pathology                                                |
+| MD                        | Pharmacology                                             |
+| MD                        | Physiology                                               |
+| MD                        | Psychiatry                                               |
+| <br />                    |                                                          |
+| MS                        | ENT                                                      |
+| MS                        | Obstetrics and Gynaecology                               |
+| MS                        | Ophthalmology                                            |
+| MS                        | Orthopaedics                                             |
+
+### Kamineni Academy of Medical Sciences & Research Center, Hyderabad
+
+| MD                        | Anaesthesiology                                          |
+| MD                        | Anatomy                                                  |
+| MD                        | Biochemistry                                             |
+| MD                        | Community Medicine                                       |
+| MD                        | Dermatology, Venereology & Leprosy                       |
+| MD                        | Emergency Medicine                                       |
+| MD                        | General Medicine                                         |
+| MD                        | Immuno Haematology & Blood Transfusion                   |
+| MD                        | Microbiology                                             |
+| MD                        | Paediatrics                                              |
+| MD                        | Pathology                                                |
+| MD                        | Pharmacology                                             |
+| MD                        | Physiology                                               |
+| MD                        | Pulmonary Medicine                                       |
+| MD                        | Radio Diagnosis                                          |
+| MD                        | Radio Therapy                                            |
+| <br />                    |                                                          |
+| MS                        | General Surgery                                          |
+| MS                        | Obstetrics and Gynaecology                               |
+| MS                        | Orthopaedics                                             |
